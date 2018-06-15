@@ -1,0 +1,80 @@
+/*
+ Theme Name:     Divi Conexiones Inmobiliarias
+ Theme URI:
+ Description:      Theme for Conexiones Inmobiliarias Blog
+ Author: Habanero Solutions
+ Author URI:  
+ Template:       Divi
+ Version:        1.0.0
+ License: 
+ License URI: 
+ Tags: 
+ Text Domain:
+*/
+
+#main-content {
+    background: #e8e8e8 !important;
+}
+
+#left-area h1,
+#left-area h2,
+#left-area h3,
+#left-area h4,
+#left-area h5,
+#left-area h1 a,
+#left-area h2 a,
+#left-area h3 a,
+#left-area h4 a,
+#left-area h5 a{
+    color: #163444 !important;
+    font-weight: bold;
+}
+
+.home-posts #left-area .entry-post{
+    background: #ffffff;
+    padding: 20px;
+}
+
+.home-posts #left-area .custom-content{
+    background-color: #ffffff;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.single-post article.post h1 {
+    background: #ffffff;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding: 0;
+}
+.single-post article.post h2,
+.single-post article.post h3,
+.single-post article.post h4,
+.single-post article.post h5 {
+    background: #ffffff;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 20px;
+}
+
+.single-post article.post .entry-content {
+    background: #ffffff;
+    margin-top: 16px;
+    padding: 18px;
+}
+
+#sidebar .et_pb_widget {
+    background: #ffffff;
+    padding: 15px;
+}
+
+.single-post #comment-wrap h1 {
+    font-size: 20px;
+    padding: 18px;
+}
+
+.single-post #comment-wrap ol.commentlist {
+    background: #ffffff;
+    padding: 10px !important;
+}
