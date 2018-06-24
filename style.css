@@ -11,6 +11,19 @@
  Tags: 
  Text Domain:
 */
+#main-header{
+    background: #083447 !important;
+}
+
+#main-header 
+#top-menu-nav{
+    text-transform: uppercase;
+}
+
+#main-header #top-menu-nav a{
+    color: #c7d865;
+    font-weight: bold;
+}
 
 #main-content {
     background: #e8e8e8 !important;
