@@ -43,12 +43,12 @@
     font-weight: bold;
 }
 
-.home-posts #left-area .entry-post{
+.blog #left-area .entry-post{
     background: #ffffff;
     padding: 20px;
 }
 
-.home-posts #left-area .custom-content{
+.blog #left-area .custom-content{
     background-color: #ffffff;
     margin-top: 20px;
     padding: 20px;
